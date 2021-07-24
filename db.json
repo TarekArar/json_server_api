@@ -6,6 +6,7 @@
       "price": 100,
       "categoryId": 1,
       "imageURL": "/images/tshirt.jpeg",
+      "images": ["/images/tshirt.jpeg", "/images/popey-blanc.png"],
       "overview": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge  "
     },
     {
@@ -14,6 +15,8 @@
       "price": 23.5,
       "categoryId": 1,
       "imageURL": "/images/popey-blanc.png",
+      "images": ["/images/tshirt.jpeg", "/images/popey-blanc.png", "/images/popey-blanc.png","/images/tshirt.jpeg"],
+
       "overview": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge  "
     }
   ],
